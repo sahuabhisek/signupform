@@ -1,0 +1,50 @@
+body{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    border: 1px solid rgb(224, 152, 152);
+    width: 450px;
+    height: 530px;
+    background-color: white;
+    margin-left: 500px;
+ }
+  h1{
+        text-align: center;
+  }
+  .icons{
+          font-size: 20px;
+          margin:50px;
+  }
+  .icons1 {
+               font-size: 20px;
+               margin:50px;
+  }
+  .icons2 {
+    font-size: 20px;
+    margin:50px
+  }
+  .icons3 {
+    font-size: 20px;
+    margin:50px   
+  }
+  .abc{
+             margin-left: 40px;
+  }
+  input{
+         margin-left: 10px;
+    
+         width:250px;
+         padding: 8px;
+         border: 1px solid black;
+         border-radius: 2px;
+  }
+  button{
+            margin-left: 180px;
+            margin-top: 20px;
+            cursor: pointer;
+            color: white;
+            background-color: blue;
+            padding:5px
+
+              
+  }
